@@ -17,7 +17,6 @@ Repository of scripts from all over the web. Some useful sql files and HowTo's. 
 
 ...
 
-*for people who doesn't like to invent warm water*
 *collected by @pkorsch*
 
 > Written with [StackEdit](https://stackedit.io/).
