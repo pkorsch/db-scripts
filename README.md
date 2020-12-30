@@ -14,6 +14,7 @@ Repository of scripts from all over the web. Some useful sql files and HowTo's. 
  - [https://blog.tanelpoder.com/2018/05/18/my-performance-troubleshooting-scripts-tpt-for-oracle-are-now-in-github-and-open-sourced/](https://blog.tanelpoder.com/2018/05/18/my-performance-troubleshooting-scripts-tpt-for-oracle-are-now-in-github-and-open-sourced/)
  - [https://amitzil.wordpress.com/scripts/](https://amitzil.wordpress.com/scripts/)
  - [http://vsbabu.org/oracle/](http://vsbabu.org/oracle/)
+ - [https://ittutorial.org/?s=Oracle+DBA+Scripts](https://ittutorial.org/?s=Oracle+DBA+Scripts)
 
 ...
 
