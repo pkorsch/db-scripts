@@ -1,4 +1,4 @@
-## Scripts & Notes for Oracle Database Admins
+## Scripts for Database Admins (Oracle/MongoDB/MySQL/MariaDB)
 
 **!!! WARNING !!!**  
 
@@ -6,6 +6,7 @@
 
 Repository of scripts from all over the web. Some useful sql files and HowTo's. Scripts were collected from authors/websites:
 
+** Oracle **
  - [http://itexpert-tech.com/oracle-database-administration-scripts-dba-bundle-v4-1/](http://itexpert-tech.com/oracle-database-administration-scripts-dba-bundle-v4-1/)
  - [https://gavinsoorma.com/2012/11/ash-and-awr-performance-tuning-scripts/](https://gavinsoorma.com/2012/11/ash-and-awr-performance-tuning-scripts/)
  - [https://gavinsoorma.com/category/scripts/](https://gavinsoorma.com/category/scripts/)
@@ -16,6 +17,8 @@ Repository of scripts from all over the web. Some useful sql files and HowTo's. 
  - [http://vsbabu.org/oracle/](http://vsbabu.org/oracle/)
  - [https://ittutorial.org/?s=Oracle+DBA+Scripts](https://ittutorial.org/?s=Oracle+DBA+Scripts)
 
+** MongoDB **
+** MySQL & MariaDB **
 ...
 
 *collected by @pkorsch*
