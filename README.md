@@ -1,2 +1,23 @@
-# scripts
-set of useful scripts
+## Scripts & Notes for Oracle Database Admins
+
+**!!! WARNING !!!**  
+
+*`you are using these scripts at your OWN risk`*
+
+Repository of scripts from all over the web. Some useful sql files and HowTo's. Scripts were collected from authors/websites:
+
+ - [http://itexpert-tech.com/oracle-database-administration-scripts-dba-bundle-v4-1/](http://itexpert-tech.com/oracle-database-administration-scripts-dba-bundle-v4-1/)
+ - [https://gavinsoorma.com/2012/11/ash-and-awr-performance-tuning-scripts/](https://gavinsoorma.com/2012/11/ash-and-awr-performance-tuning-scripts/)
+ - [https://gavinsoorma.com/category/scripts/](https://gavinsoorma.com/category/scripts/)
+ - [http://oracle-help.com/category/scripts/](http://oracle-help.com/category/scripts/)
+ - [https://oracle-base.com/dba/scripts](https://oracle-base.com/dba/scripts)
+ - [https://blog.tanelpoder.com/2018/05/18/my-performance-troubleshooting-scripts-tpt-for-oracle-are-now-in-github-and-open-sourced/](https://blog.tanelpoder.com/2018/05/18/my-performance-troubleshooting-scripts-tpt-for-oracle-are-now-in-github-and-open-sourced/)
+ - [https://amitzil.wordpress.com/scripts/](https://amitzil.wordpress.com/scripts/)
+ - [http://vsbabu.org/oracle/](http://vsbabu.org/oracle/)
+
+...
+
+*for people who doesn't like to invent warm water*
+*collected by @pkorsch*
+
+> Written with [StackEdit](https://stackedit.io/).
