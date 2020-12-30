@@ -18,6 +18,7 @@ Repository of scripts from all over the web. Some useful sql files and HowTo's. 
  - [https://ittutorial.org/?s=Oracle+DBA+Scripts](https://ittutorial.org/?s=Oracle+DBA+Scripts)
 
 **MongoDB**
+
 **MySQL & MariaDB**
 ...
 
