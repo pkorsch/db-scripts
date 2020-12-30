@@ -18,8 +18,18 @@ Repository of scripts from all over the web. Some useful sql files and HowTo's. 
  - [https://ittutorial.org/?s=Oracle+DBA+Scripts](https://ittutorial.org/?s=Oracle+DBA+Scripts)
 
 **MongoDB**
+- https://geekflare.com/mongodb-queries-examples/
+- https://database-investigator.com/mongodb-scripts/
+- https://dzone.com/articles/mongodb-administration-checklist-for-mysql-dbas
+- https://docs.mongodb.com/manual/reference/command/nav-administration/
 
 **MySQL & MariaDB**
+- https://www.dbrnd.com/mysql-dba-scripts/
+- https://severalnines.com/database-blog/how-manage-mysql-oracle-dbas
+- https://github.com/good-dba/mariadb-dba-scripts
+- https://github.com/sirmdub/mysql-dba-scripts
+- https://aodba.com/category/mysql-scripts/
+
 ...
 
 *collected by @pkorsch*
