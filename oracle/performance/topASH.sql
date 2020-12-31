@@ -55,7 +55,7 @@ AND evt.wait_class = 'User I/O'
 GROUP BY sql_id
 ORDER BY COUNT(*) DESC;
 
-SELECT * FROM TABLE(dbms_xplan.display_cursor('&SQL_ID)); 
+SELECT * FROM TABLE(dbms_xplan.display_cursor(&SQL_ID)); 
 
 -- Top 10 CPU consumers in last 60 minutes
 select * from
