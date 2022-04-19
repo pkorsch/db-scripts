@@ -59,3 +59,16 @@ db.serverStatus().asserts
 db.serverStatus().locks
 db.serverStatus().opcounters
 db.serverStatus().opcounters.inserts
+
+//listSessions
+use config
+db.system.sessions.aggregate( [  { $listSessions: { allUsers: true } } ] )
+
+//listSessions specific user
+use config
+db.system.sessions.aggregate( [ { $listSessions: { users: [ {user: "UserName", db: "test" } ] } } ] )
+
+//listSessions current user
+use config
+db.system.sessions.aggregate( [ { $listSessions: { } } ] )
+
